@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,group-title="twitter",twitter-6
 https://video.twimg.com/amplify_video/1735172204877488128/pl/rJc0qPQdXcRv5Fen.m3u8?variant_version=1&tag=14&container=fmp4
-#EXTINF:-1,group-title="twitter"Twitter-7
+#EXTINF:-1,group-title="twitter",Twitter-7
 https://video.twimg.com/amplify_video/1734448070962954240/pl/avc1/1280x720/mp4a/128000/eID6cWVaa4uFqNME.m3u8?container=fmp4
 #EXTINF:-1,group-title="twitter"Twitter-8
 https://video.twimg.com/amplify_video/1724371889672560640/pl/LIDAGGRUOmSkgknR.m3u8?variant_version=1&tag=16&container=fmp4
@@ -43,13 +43,13 @@ https://video.twimg.com/amplify_video/1702630038565453824/pl/avc1/1920x1080/3Vdr
 https://vip3.bfbfhao.com/20240105/5AQAsx9i/index.m3u8
 #EXTINF:-1,JUX-182
 https://worstcdn.com/1f73adc0-8633-4fda-9032-e02c24dad23b/1280x720/video.m3u8
-#EXTINF:-1,group-title="twitter"Twitter-1
+#EXTINF:-1,group-title="twitter",Twitter-1
 https://video.twimg.com/amplify_video/1663880368897011712/pl/wjSMzzw61yb1tvp5.m3u8?variant_version=1&tag=14&container=fmp4
-#EXTINF:-1,group-title="twitter"Twitter-2
+#EXTINF:-1,group-title="twitter",Twitter-2
 https://video.twimg.com/amplify_video/1713883733441601536/pl/2jR3J3n_TzQOjWwi.m3u8?variant_version=1&tag=16&container=fmp4
-#EXTINF:-1,group-title="twitter"Twitter-3
+#EXTINF:-1,group-title="twitter",Twitter-3
 https://video.twimg.com/amplify_video/1727738864293580803/pl/WGUKNjonb_omB_I9.m3u8?variant_version=1&tag=14&container=fmp4
-#EXTINF:-1,group-title="twitter"Twitter-4
+#EXTINF:-1,group-title="twitter",Twitter-4
 https://video.twimg.com/amplify_video/1728204902231650304/pl/OdKX0kIxWneWSafz.m3u8?variant_version=1&tag=14&container=fmp4
 #EXTINF:-1,JUL-165
 https://static.vsstudioham.com/5e83f1c7-e917-4858-9f87-f3fae95e9dfb/1280x720/video.m3u8
