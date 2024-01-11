@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,twitter-6
+#EXTINF:-1,tvg-name="twitter-6" group-title="twitter"
 https://video.twimg.com/amplify_video/1735172204877488128/pl/rJc0qPQdXcRv5Fen.m3u8?variant_version=1&tag=14&container=fmp4
 #EXTINF:-1,Twitter-7
 https://video.twimg.com/amplify_video/1734448070962954240/pl/avc1/1280x720/mp4a/128000/eID6cWVaa4uFqNME.m3u8?container=fmp4
