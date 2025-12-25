@@ -16,9 +16,34 @@
       "api": "https://api.wwzy.tv/api.php/provide/vod/"
     },
     {
-      "name": "墨斗|点播",
+      "name": "香蕉|点播",
       "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"
+    },
+     {
+      "name": "幸资源|点播",
+      "type": 1,
+      "api": "https://xzybb2.com/api.php/provide/vod/?ac=list"
+    }， {
+      "name": "杏吧|点播",
+      "type": 1,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml"
+    }， {
+      "name": "香蕉1|点播",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/"
+    }， {
+      "name": "DMBAO|点播",
+      "type": 1,
+      "api": "http://zhangqun1818.serv00.net/cjjh.php"
+    }， {
+      "name": "DIDI|点播",
+      "type": 1,
+      "api": "http://dadiapi.com/api.php"
+    }， {
+      "name": "精品|点播",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list"
     },
     {
       "name": "黑木耳|点播",
