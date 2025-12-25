@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+#EXT-X-SUB-URL https://raw.githubusercontent.com/liao-1/zhibo/refs/heads/main/XXX.m3u
 
 #EXTINF:-1,CARIBBEANCOM-050725-001 持续不断的激情接吻与插入 6
 https://surrit.com/9dfff2fa-488b-41f5-9121-9ff3e69530da/720p/video.m3u8
