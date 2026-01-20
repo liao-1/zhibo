@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/liao-1/zhibo/refs/heads/main/XXX.m3u
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/liao-1/zhibo/refs/heads/main/live.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
