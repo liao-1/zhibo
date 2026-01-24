@@ -32,5 +32,8 @@ XPTV代理链接 https://ghp.xptvhelper.link/https://raw.githubusercontent.com/l
 [![Star History Chart](https://api.star-history.com/svg?repos=jsnzkpg/jsnzkpg&type=Date&legend=top-left)](https://www.star-history.com/#jsnzkpg/jsnzkpg&type=date&legend=top-left)
 
 ---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jsnzkpg/jsnzkpg&type=timeline&legend=top-left)](https://www.star-history.com/#jsnzkpg/jsnzkpg&type=timeline&legend=top-left)
 
 </div>
