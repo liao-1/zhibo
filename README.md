@@ -29,8 +29,6 @@ XPTV代理链接 https://ghp.xptvhelper.link/https://raw.githubusercontent.com/l
 
 ## ⭐ Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=liao-1/liao-1&type=date&legend=top-left)](https://www.star-history.com/#liao-1/liao-1&type=date&legend=top-left)
 
 ---
