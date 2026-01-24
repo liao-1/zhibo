@@ -12,7 +12,7 @@ XPTV代理链接 https://ghp.xptvhelper.link/https://raw.githubusercontent.com/l
 
 | 图标 | 名称 | 链接 |
 |------|------|------|
-| 🔥 | 本人自用机场 (2元1000G) | [进入](https://kelayun.notepin.co) |
+| 🔥 | 本人自用机场 (2元1000G) | [进入]() |
 | ✈️ | 我的TG频道 | [进入](https://t.me/stymei1) |
 | 🔖 | 裤佬书签收藏 | [进入](https://Jsnzkpg.github.io) |
 | 🚀 | 裤佬共享小火箭 | [进入](https://stymei.github.io) |
