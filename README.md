@@ -14,10 +14,10 @@ XPTV代理链接 https://ghp.xptvhelper.link/https://raw.githubusercontent.com/l
 |------|------|------|
 | 🔥 | 本人自用机场 (2元1000G) | [进入]() |
 | ✈️ | 我的TG频道 | [进入](https://t.me/stymei1) |
-| 🔖 | 裤佬书签收藏 | [进入](https://Jsnzkpg.github.io) |
+| 🔖 | 裤佬书签收藏 | [进入]() |
 | 🚀 | 裤佬共享小火箭 | [进入](https://stymei.github.io) |
 | 🐈‍⬛ | 裤佬Github加速 | [进入](https://pyapk.github.io) |
-| 🔄 | 裤佬订阅转换 | [进入](https://Jsnzkpg.github.io/Jsnzkpg) |
+| 🔄 | 裤佬订阅转换 | [进入]() |
 | 🪜 | 裤佬永久节点订阅 | [进入](https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg) |
 | 📺 | 裤佬永久IPTV订阅 | [进入](https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1) |
 | 🎬 | 裤佬永久TVbox订阅 | [进入](https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2) |
